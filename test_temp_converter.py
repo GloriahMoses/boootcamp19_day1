@@ -1,7 +1,7 @@
 import unittest
 from temp_converter import convert_celcius_to_farenheight
 
-class TempConverterTest(unittest.Testcase):
+class TempConverterTest(unittest.TestCase):
 	#given temp in celcius = correct value in F
 	#data type for input
 	# throes an exception error when data type is incorrect
