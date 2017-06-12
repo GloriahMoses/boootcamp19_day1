@@ -12,6 +12,3 @@ def prime_number(n):
 		        primes.append(prime)
 
 		return primes
-
-
-
