@@ -1,4 +1,9 @@
 def prime_number(n):
+	"""
+	this function takes in a number then generates
+	all the prime numbers in the range of that number
+	and append to a list which is the output
+	"""
 	primes = []
 	if n<2:
 		return False
